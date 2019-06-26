@@ -1,0 +1,26 @@
+topicId,topicNameEN,FolderName,groupID,GroupName,GroupTags,GroupShortDescription
+2,Population and migration,Open Data - SYB_Topic02,29deadbc8f8c4ffaa4e39a1309753967,SYB_Topic02,"population, migration",Group used to share data items related to population and migration (topic 2) form the United Nations Statistical Yearbook through the UN Data Hub.
+3,Education,Open Data - SYB_Topic03,f490c0547c1441239d1e2774cff18ee1,SYB_Topic03,education,Group used to share data items related to education (topic 3) form the United Nations Statistical Yearbook through the UN Data Hub.
+4,Gender,Open Data - SYB_Topic04,d29d2a9106e4428d8bd3f3a0cae4e021,SYB_Topic04,gender,Group used to share data items related to gender (topic 4) form the United Nations Statistical Yearbook through the UN Data Hub.
+5,Communication,Open Data - SYB_Topic05,583d7057c4ca40b28ee344dd271ffd07,SYB_Topic05,communication,Group used to share data items related to communication (topic 5) form the United Nations Statistical Yearbook through the UN Data Hub.
+6,National accounts,Open Data - SYB_Topic06,990a435a64044593ad5d91457af012ac,SYB_Topic06,national accounts,Group used to share data items related to national accounts (topic 6) form the United Nations Statistical Yearbook through the UN Data Hub.
+7,Finance,Open Data - SYB_Topic07,6e4d253e2e944132ab72b2d8e6e0d149,SYB_Topic07,finance,Group used to share data items related to finance (topic 7) form the United Nations Statistical Yearbook through the UN Data Hub.
+8,Labour market,Open Data - SYB_Topic08,d277c4d7c8a0438394bee1e98e501cb3,SYB_Topic08,labour,Group used to share data items related to labour market (topic 8) form the United Nations Statistical Yearbook through the UN Data Hub.
+9,Price and production indices,Open Data - SYB_Topic09,e682722d7cae463f84b1b50408779451,SYB_Topic09,"prices, production",Group used to share data items related to price and production indices (topic 9) form the United Nations Statistical Yearbook through the UN Data Hub.
+11,Crime,Open Data - SYB_Topic11,4fc4d373d4574eb1bb5e06bb825dc83c,SYB_Topic11,crime,Group used to share data items related to crime (topic 11) form the United Nations Statistical Yearbook through the UN Data Hub.
+13,Environment,Open Data - SYB_Topic13,d940686a22a84aa7820c619352d3b252,SYB_Topic13,environment,Group used to share data items related to environment (topic 13) form the United Nations Statistical Yearbook through the UN Data Hub.
+14,Science and technology,Open Data - SYB_Topic14,f0a7f4c435bf4d54a0b1f89e268d9137,SYB_Topic14,"science, technology",Group used to share data items related to science and technology (topic 14) form the United Nations Statistical Yearbook through the UN Data Hub.
+15,International merchandise trade,Open Data - SYB_Topic15,692d1929a8fa4f91b16e1098afe8d451,SYB_Topic15,international trade,Group used to share data items related to international merchandise trade (topic 15) form the United Nations Statistical Yearbook through the UN Data Hub.
+16,International tourism and transport,Open Data - SYB_Topic16,043d947fea5b467e8f6071b299394c9e,SYB_Topic16,"tourism, transport",Group used to share data items related to international tourism and transport (topic 16) form the United Nations Statistical Yearbook through the UN Data Hub.
+19,Development assistance,Open Data - SYB_Topic19,247d50a1970c4310bfc8e5d37c87e789,SYB_Topic19,"means of implementation, development assistance",Group used to share data items related to development assistance (topic 19) form the United Nations Statistical Yearbook through the UN Data Hub.
+20,Energy,Open Data - SYB_Topic20,768edf7961644d29a730a47c3075c11a,SYB_Topic20,energy,Group used to share data items related to energy (topic 20) form the United Nations Statistical Yearbook through the UN Data Hub.
+22,Health,Open Data - SYB_Topic22,a5d0dd033b3e449295276a43e77b8eaa,SYB_Topic22,health,Group used to share data items related to health (topic 22) form the United Nations Statistical Yearbook through the UN Data Hub.
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,    open_data_group_prod_topic_02 = '065896a584ca4ceb920fbdd3892bee05' # SYB_Topic02,,,,,
+,    ,,,,,
